@@ -4,7 +4,7 @@ A small Flutter app that shows how the **`Hero`** widget works. Tap a tile in th
 
 > Widget presentation for **[Widget Presentation]** by **[KABANDA GISLAIN]**
 
-![Hero demo](screenshots/demo.gif)
+![Hero demo](./lib/screenshots/images/Homepage.png)
 
 *(Still screenshot in case the GIF doesn't load: `lib\screens\images\Homepage.png`)*
 
