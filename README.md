@@ -4,9 +4,10 @@ A small Flutter app that shows how the **`Hero`** widget works. Tap a tile in th
 
 > Widget presentation for **[Widget Presentation]** by **[KABANDA GISLAIN]**
 
-![Hero demo](./lib/screenshots/images/Homepage.png)
-
-*(Still screenshot in case the GIF doesn't load: `lib\screens\images\Homepage.png`)*
+<p align="center">
+  <img src="./lib/screenshots/images/Homepage.png" width="350" alt="Homepage">
+  <img src="./lib/screenshots/images/Details.png" width="350" alt="Details screen">
+</p>
 
 ---
 
